@@ -97,6 +97,12 @@ nav a {
 }
 
 nav a:hover {
-  background: #922;
+  background: #;
   transition: .3s ease-in-out;
+}
+
+.audio {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
